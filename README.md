@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tr%E1%BA%A7n%20Vi%E1%BB%87t%20Anh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Game%20Developer%20%7C%20Unity%20Engineer&descSize=18&descAlignY=52"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tr%E1%BA%A7n%20Vi%E1%BB%87t%20Anh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Game%20Developer%20%7C%20Unity%20%26%20Cocos%20Engineer&descSize=18&descAlignY=52"/>
 
 <!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A177FE&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%8E%AE+Unity+Game+Developer;%F0%9F%9A%80+Nearly+2+Years+of+Game+Dev+Experience;%F0%9F%8F%A2+Game+Developer+%40+TheOne+Game+Studio;%F0%9F%92%A1+Turning+Ideas+Into+Playable+Experiences" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A177FE&center=true&vCenter=true&random=false&width=600&lines=%F0%9F%8E%AE+Unity+%26+Cocos+Game+Developer;%F0%9F%9A%80+Nearly+2+Years+of+Game+Dev+Experience;%F0%9F%8F%A2+Game+Developer+%40+TheOne+Game+Studio;%F0%9F%92%A1+Turning+Ideas+Into+Playable+Experiences" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -12,6 +12,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-tranvietanh0-181717?style=for-the-badge&logo=github)](https://github.com/tranvietanh0)
 [![Location](https://img.shields.io/badge/Location-Vietnam%20%F0%9F%87%BB%F0%9F%87%B3-red?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![Studio](https://img.shields.io/badge/TheOne-Game%20Studio-blueviolet?style=for-the-badge&logo=unity&logoColor=white)](#)
+[![Cocos](https://img.shields.io/badge/Cocos-Creator-55C2E1?style=for-the-badge&logo=cocos&logoColor=white)](#)
 
 </div>
 
@@ -25,12 +26,13 @@ role: Game Developer
 company: TheOne Game Studio
 experience: ~2 years
 location: Vietnam
-focus: Mobile Game Development (Unity)
+focus: Mobile Game Development (Unity & Cocos Creator)
 ```
 
-- Working as a **Game Developer** at **TheOne Game Studio**, building mobile games with Unity
+- Working as a **Game Developer** at **TheOne Game Studio**, building mobile games with Unity & Cocos Creator
 - Experienced in **hyper-casual**, **casual**, and **2D/3D game development**
 - Skilled in game architecture patterns: **MVP**, **Dependency Injection**, **Signal-based Communication**
+- Currently expanding into **Cocos Creator** for cross-platform game development
 - Passionate about creating smooth, polished gaming experiences
 
 ---
@@ -41,7 +43,9 @@ focus: Mobile Game Development (Unity)
 
 ### Game Development
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Cocos Creator](https://img.shields.io/badge/Cocos%20Creator-55C2E1?style=for-the-badge&logo=cocos&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![ShaderLab](https://img.shields.io/badge/ShaderLab-222222?style=for-the-badge&logo=unity&logoColor=white)
 ![HLSL](https://img.shields.io/badge/HLSL-5E5E5E?style=for-the-badge&logo=nvidia&logoColor=white)
 
@@ -54,7 +58,6 @@ focus: Mobile Game Development (Unity)
 
 ### Also Work With
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -137,7 +140,7 @@ Others         ░░░░░░░░░░░░░░░░░░░░░�
 
 <div align="center">
 
-*I'm always open to discussing game development, Unity architecture, and collaboration opportunities!*
+*I'm always open to discussing game development, Unity & Cocos architecture, and collaboration opportunities!*
 
 [![GitHub](https://img.shields.io/badge/Follow%20on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/tranvietanh0)
 
