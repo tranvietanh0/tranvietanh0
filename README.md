@@ -96,28 +96,6 @@ Others         ░░░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/tranvietanh0/GameFoundationCore">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tranvietanh0&repo=GameFoundationCore&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/tranvietanh0/UITemplate">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tranvietanh0&repo=UITemplate&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/tranvietanh0/DominoGame">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tranvietanh0&repo=DominoGame&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/tranvietanh0/HyperCasualGameTemplate">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tranvietanh0&repo=HyperCasualGameTemplate&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/tranvietanh0/BridgeRace_TranVietAnh">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tranvietanh0&repo=BridgeRace_TranVietAnh&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
-<a href="https://github.com/tranvietanh0/MoveStopMove_TranVietAnh">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=tranvietanh0&repo=MoveStopMove_TranVietAnh&theme=tokyonight&hide_border=true&border_radius=10" />
-</a>
 
 </div>
 
