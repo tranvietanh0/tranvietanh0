@@ -1,152 +1,147 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tr%E1%BA%A7n%20Vi%E1%BB%87t%20Anh&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Unity%20Game%20Developer%20%7C%20Architecture%20%7C%20Gameplay%20Systems&descSize=18&descAlignY=52"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:A177FE&height=220&section=header&text=Tr%E1%BA%A7n%20Vi%E1%BB%87t%20Anh&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Unity%20Game%20Developer%20%E2%80%A2%20Architecture%20%E2%80%A2%20Gameplay%20Systems&descSize=18&descAlignY=56"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A177FE&center=true&vCenter=true&random=false&width=900&lines=Building+scalable+Unity+game+architecture;Designing+gameplay+systems+for+casual+and+hyper-casual+games;Creating+reusable+UI+frameworks+and+editor+tools" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=A177FE&center=true&vCenter=true&width=720&lines=%3E+Building+scalable+Unity+architecture_;%3E+Designing+gameplay+for+casual+%26+hyper-casual_;%3E+Crafting+reusable+UI+frameworks_;%3E+Shipping+editor+tools+that+save+hours_" alt="Typing SVG"/></a>
 
-<br/>
-
-[![GitHub](https://img.shields.io/badge/GitHub-tranvietanh0-181717?style=for-the-badge&logo=github)](https://github.com/tranvietanh0)
-[![Location](https://img.shields.io/badge/Location-Vietnam-red?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
-[![Engine](https://img.shields.io/badge/Engine-Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](#)
-[![Focus](https://img.shields.io/badge/Focus-Game%20Architecture-blueviolet?style=for-the-badge)](#)
+<p>
+  <a href="https://github.com/tranvietanh0"><img src="https://img.shields.io/github/followers/tranvietanh0?label=Followers&style=for-the-badge&logo=github&color=A177FE&labelColor=1a1b27"/></a>
+  <img src="https://img.shields.io/badge/Based_in-Vietnam-DA251D?style=for-the-badge&labelColor=1a1b27"/>
+  <img src="https://img.shields.io/badge/Engine-Unity-ffffff?style=for-the-badge&logo=unity&logoColor=white&labelColor=1a1b27"/>
+  <img src="https://komarev.com/ghpvc/?username=tranvietanh0&label=Profile%20views&color=A177FE&style=for-the-badge"/>
+</p>
 
 </div>
 
----
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
-## About Me
+## 🎮 `whoami`
 
-```yaml
-name: Trần Việt Anh
-role: Unity Game Developer
-focus: Game Architecture, Gameplay Systems, UI Frameworks, Editor Tooling
-location: Vietnam
+```csharp
+public sealed class TranVietAnh : UnityDeveloper
+{
+    public string   Location => "Vietnam 🇻🇳";
+    public string[] Focus    => new[] { "Game Architecture", "Gameplay Systems", "UI Frameworks", "Editor Tooling" };
+    public string[] Genres   => new[] { "Casual", "Hyper-Casual" };
+    public string[] Stack    => new[] { "VContainer", "MessagePipe", "UniTask", "Addressables", "DOTween" };
+
+    public override string Motto => "Build it once, reuse it everywhere.";
+}
 ```
 
-I build Unity projects with a strong focus on reusable architecture, clean gameplay flow, and production-friendly tooling.
+I build Unity projects around **reusable architecture**, **clean gameplay flow** and **production-friendly tooling**: the kind of foundation that lets the next game start on day one instead of day thirty.
 
-My work is centered around:
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- scalable Unity architecture for game projects
-- gameplay systems for casual and hyper-casual games
-- reusable UI frameworks and screen flow patterns
-- editor tools that speed up production workflows
+### 🧱 Architecture
+- Modular DI composition with **VContainer**
+- Signal-driven systems with **MessagePipe**
+- State machines for game & screen flow
+- Async-first code with **UniTask**
 
----
+</td>
+<td width="50%" valign="top">
 
-## What I Build
+### 🕹️ Gameplay & Tools
+- Core loops for casual & hyper-casual games
+- Presenter-based UI and screen management
+- Addressables-driven asset pipelines
+- Editor tools that speed up content work
 
-- Gameplay systems and core loops for casual and hyper-casual games
-- Reusable Unity templates for faster project bootstrap
-- UI flow architecture with presenter and screen management patterns
-- Signal-driven systems and modular dependency injection setups
-- Editor tooling for content workflow and production efficiency
+</td>
+</tr>
+</table>
 
----
-
-## Core Strengths
-
-### Architecture
-
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![VContainer](https://img.shields.io/badge/VContainer-DI-green?style=for-the-badge)
-![State Machine](https://img.shields.io/badge/State%20Machine-Architecture-2F80ED?style=for-the-badge)
-![Signal Bus](https://img.shields.io/badge/Signal%20Bus-Event%20Driven-7B61FF?style=for-the-badge)
-
-### Gameplay Systems
-
-![Hyper Casual](https://img.shields.io/badge/Hyper--Casual-Gameplay-orange?style=for-the-badge)
-![Casual Games](https://img.shields.io/badge/Casual-Systems-FF6B6B?style=for-the-badge)
-![Addressables](https://img.shields.io/badge/Addressables-Asset%20Management-red?style=for-the-badge)
-![DOTween](https://img.shields.io/badge/DOTween-Animation-ff8c00?style=for-the-badge)
-![UniTask](https://img.shields.io/badge/UniTask-Async-8A2BE2?style=for-the-badge)
-
-### UI and Tools
-
-![UI Framework](https://img.shields.io/badge/UI-Framework-1ABC9C?style=for-the-badge)
-![Presenter Flow](https://img.shields.io/badge/Presenter-Flow-16A085?style=for-the-badge)
-![Editor Tools](https://img.shields.io/badge/Editor-Tools-34495E?style=for-the-badge)
-![Optimization](https://img.shields.io/badge/Workflow-Optimization-2980B9?style=for-the-badge)
-
----
-
-## Selected Projects
-
-### [GameFoundationCore](https://github.com/tranvietanh0/GameFoundationCore)
-
-A reusable foundation layer for Unity projects focused on architecture and shared systems.
-
-Highlights:
-
-- dependency injection helpers and modular composition
-- signal bus and event-driven communication
-- UI module and screen flow infrastructure
-
-### [HyperCasualGameTemplate](https://github.com/tranvietanh0/HyperCasualGameTemplate)
-
-A reusable Unity starter template for hyper-casual production.
-
-Highlights:
-
-- bootstrap-ready project structure
-- reusable gameplay flow patterns
-- local data and game state setup
-
-### [UITemplate](https://github.com/tranvietanh0/UITemplate)
-
-A Unity UI template focused on presenter flow, state management, and editor support.
-
-Highlights:
-
-- reusable presenter-based UI architecture
-- screen and state flow patterns
-- editor tools for workflow and optimization
-
----
-
-## Core Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![VContainer](https://img.shields.io/badge/VContainer-DI-green?style=for-the-badge)
-![MessagePipe](https://img.shields.io/badge/MessagePipe-Signals-6C5CE7?style=for-the-badge)
-![Addressables](https://img.shields.io/badge/Addressables-Asset%20Management-red?style=for-the-badge)
-![DOTween](https://img.shields.io/badge/DOTween-Animation-orange?style=for-the-badge)
-![UniTask](https://img.shields.io/badge/UniTask-Async-purple?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://skillicons.dev/icons?i=unity,cs,dotnet,cpp,ts,js,py,git,github,vscode,visualstudio&perline=11&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/VContainer-DI-2ea44f?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/MessagePipe-Signals-6C5CE7?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/UniTask-Async-8A2BE2?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/Addressables-Assets-e74c3c?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/DOTween-Animation-ff8c00?style=flat-square&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/State_Machine-Flow-2F80ED?style=flat-square&labelColor=1a1b27"/>
 
 </div>
 
----
+## 🚀 Featured Projects
 
-## GitHub Stats
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🧩 [GameFoundationCore](https://github.com/tranvietanh0/GameFoundationCore)
+Shared foundation layer for Unity projects.
+<br/><sub>DI helpers · Signal bus · UI module & screen flow</sub>
+<br/><br/><img src="https://img.shields.io/github/last-commit/tranvietanh0/GameFoundationCore?style=flat-square&color=A177FE&labelColor=1a1b27&label=updated"/>
+
+</td>
+<td width="50%" valign="top">
+
+#### ⚡ [HyperCasualGameTemplate](https://github.com/tranvietanh0/HyperCasualGameTemplate)
+Bootstrap-ready starter for hyper-casual production.
+<br/><sub>Project structure · Gameplay flow · Local data & state</sub>
+<br/><br/><img src="https://img.shields.io/github/last-commit/tranvietanh0/HyperCasualGameTemplate?style=flat-square&color=A177FE&labelColor=1a1b27&label=updated"/>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎨 [MockupToUnityUI](https://github.com/tranvietanh0/MockupToUnityUI)
+From UI mockup to Unity UI, faster.
+<br/><sub>UI workflow · Editor tooling</sub>
+<br/><br/><img src="https://img.shields.io/github/last-commit/tranvietanh0/MockupToUnityUI?style=flat-square&color=A177FE&labelColor=1a1b27&label=updated"/>
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧰 [oh-my-game-kit](https://github.com/tranvietanh0/oh-my-game-kit)
+A toolkit for game development workflows.
+<br/><sub>Tooling · Automation</sub>
+<br/><br/><img src="https://img.shields.io/github/last-commit/tranvietanh0/oh-my-game-kit?style=flat-square&color=A177FE&labelColor=1a1b27&label=updated"/>
+
+</td>
+</tr>
+</table>
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=tranvietanh0&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tranvietanh0&theme=tokyonight&hide_border=true&border_radius=10" />
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%"/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tranvietanh0&layout=donut&theme=tokyonight&hide_border=true&border_radius=10&langs_count=8" />
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%"/>
+<img src="https://streak-stats.demolab.com/?user=tranvietanh0&theme=tokyonight&hide_border=true&border_radius=10&ring=A177FE&fire=A177FE&currStreakLabel=A177FE" width="49%"/>
+
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%"/>
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tranvietanh0/tranvietanh0/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tranvietanh0/tranvietanh0/output/github-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/tranvietanh0/tranvietanh0/output/github-snake-dark.svg"/>
+</picture>
 
 </div>
 
----
-
-## Connect
+## 🤝 Let's Connect
 
 <div align="center">
 
-Open to collaboration on Unity game architecture, gameplay programming, reusable templates, and production tooling.
+Open to collaboration on **Unity game architecture**, **gameplay programming**, **reusable templates** and **production tooling**.
 
-[![GitHub](https://img.shields.io/badge/Follow%20on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/tranvietanh0)
+<a href="https://github.com/tranvietanh0"><img src="https://img.shields.io/badge/Follow_on-GitHub-181717?style=for-the-badge&logo=github"/></a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=tranvietanh0&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A177FE,50:302b63,100:0f0c29&height=120&section=footer"/>
 
 </div>
